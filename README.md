@@ -33,7 +33,7 @@ _This is in order of priority_
 - [ ] Chron job to automatically sync on a cadence
 - [ ] onChangeListener for Google Sheet (so users can toggle between Chron job and auto-sync)
 
-If you want to help, feel free to fork + make a pull request. Contact me on Twitter [@aakashadesara](https://twitter.com/aakashadesara) before you work on something big so we do not have multiple people working on the same changes.
+If you want to help, feel free to fork + make a pull request.
 
 ### Thanks
 Special thanks to the folks working on the [Notion Python API](https://github.com/jamalex/notion-py)
